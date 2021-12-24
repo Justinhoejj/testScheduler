@@ -5,5 +5,5 @@ echo $(
 cd /Users/justinhoe/Desktop/Projects/scheduledTask
 git add --all
 git commit -m "Updated on $(date -u)"
-git push
+git push origin masterh
 )
